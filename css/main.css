@@ -1,0 +1,25 @@
+* {
+    background-color: lightblue;
+}
+
+.img01 {
+    resize: horizontal;
+}
+
+.title01 {
+    text-align: center;
+    text-overflow: inherit;
+    float: left;
+}
+
+.title02 {
+    text-align: right;
+    float: right;
+}
+
+.text01 {
+    text-transform: capitalize;
+    color: wheat;
+    text-align: right;
+    float: none;
+}
